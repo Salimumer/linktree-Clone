@@ -34,6 +34,7 @@ header{
     margin-top: 10px;
     color: rgb(0, 0, 0
     );
+    padding-bottom: 10px;
 }
 
 .container{
@@ -67,7 +68,7 @@ h1 {
 
 }
 
-.title:hover{
+.title:hover {
     transition: cubic-bezier(.07,1.41,.82,1.41) 0.2s;
     transform :scale(1.02);
 
